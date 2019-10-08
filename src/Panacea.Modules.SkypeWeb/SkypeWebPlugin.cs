@@ -49,9 +49,11 @@ namespace Panacea.Modules.SkypeWeb
                             true,
                             new List<string>()
                             {
+                                "web.skype.com",
                                 "lw.skype.com",
                                 "login.live.com",
-                                "login.skype.com"
+                                "login.skype.com",
+                                "signup.live.com"
                             });
             }
         }
